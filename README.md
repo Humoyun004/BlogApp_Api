@@ -6,17 +6,12 @@
 > Добро пожаловать в наше приложение для управления блогами и сообщениями в них! <br>
 Это приложение предоставляет простой и удобный RESTful API для управления вашим блогам. Воспользуйтесь нашими эндпоинтами для добавления, обновления, удаления и просмотра блогов,просмотра блогов по их авторам, а также получите список всех блогов.
 
-![img1](Media/project_images/img1.png)
+
 ![img7](Media/project_images/img7.jpg)
-![img2](Media/project_images/img2.png)
 ![img8](Media/project_images/img8.jpg)
-![img3](Media/project_images/img3.png)
 ![img9](Media/project_images/img9.jpg)
-![img4](Media/project_images/img4.png)
 ![img10](Media/project_images/img10.jpg)
-![img5](Media/project_images/img5.png)
 ![img11](Media/project_images/img11.jpg)
-![img6](Media/project_images/img6.png)
 ![img12](Media/project_images/img12.jpg)
 **Пример программы так работает.**
 
